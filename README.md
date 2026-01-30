@@ -1,4 +1,4 @@
-<h1>Search task</h1>
+<h1 style="color :red;">Search task</h1>
 <h2> Q:When should I use a struct instead of a class?</h2>
 <h4>
   It represents a VALUE, not an object
