@@ -84,7 +84,7 @@
                         break;
                     case "6":
                         Console.ForegroundColor = ConsoleColor.White;
-                        Environment.Exit(1);
+                        
                         break;
 
 
